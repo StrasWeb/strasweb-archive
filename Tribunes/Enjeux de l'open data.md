@@ -14,8 +14,8 @@ L'*open data* permet de constituer une source d'information fiable pour les jour
 
 On peut déjà trouver une volonté de permettre aux citoyens un accès aux données publiques dans la déclaration des droits de l’homme et du citoyen de 1789 :
 
-* Article XIV : {{citation|Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs Représentants, la nécessité de la contribution publique, de la consentir librement, d’en suivre l’emploi et d’en déterminer la quotité, l’assiette, le recouvrement et la durée.}}
-* Article XV : {{citation|La Société a le droit de demander compte à tout Agent public de son administration.}}
+* Article XIV : « Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs Représentants, la nécessité de la contribution publique, de la consentir librement, d’en suivre l’emploi et d’en déterminer la quotité, l’assiette, le recouvrement et la durée. »
+* Article XV : « La Société a le droit de demander compte à tout Agent public de son administration. »
 
 Mais surtout, l'accès aux données publiques est un droit opposable en France, instauré par l’[ordonnance du 6 juin 2005](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000629820) en application de la directive européenne du 17 novembre 2003.
 
@@ -75,7 +75,7 @@ Les données sont considérées ouvertes si elles sont complètes, accessibles e
 ### Choix de la licence
 
 * La *Licence ouverte* : Afin de régler la question du choix de la licence, [Etalab](http://www.etalab.gouv.fr/) (mission ministérielle chargée de l'ouverture des données) a publié en août 2011 la *Licence ouverte*, qui est la licence officielle de l'État français pour l**open data*. Elle présente l'avantage d'être pensée spécialement pour l'ouverture des données publiques tout en étant compatible avec la plupart des licences libres (ODbL, CC-BY, CC-BY-SA, Open Government Licence, etc.).
-* L'Open Database Licence (ODbL) : Cette licence utilisée, entre autre, par OpenStreet Map et la mairie de Paris, est spécialement rédigée à destination des bases de données. C'est une licence dite {{citation|virale}} (les données utilisées doivent être redistribuées sous une licence identique ou similaire).
+* L'Open Database Licence (ODbL) : Cette licence utilisée, entre autre, par OpenStreet Map et la mairie de Paris, est spécialement rédigée à destination des bases de données. C'est une licence dite « virale » (les données utilisées doivent être redistribuées sous une licence identique ou similaire).
 
 ## Exemples d'utilisation des données publiques
 
