@@ -7,6 +7,7 @@ Il nous semble donc légitime de réaliser une contribution sur les usages du We
 Cependant, le sujet étant vaste, nous avons décidé de nous limiter à deux thèmes :
 * L'accès à l'information via le Web
 * Les outils pédagogiques numériques
+
 Voici donc quelques propositions afin d'améliorer l'usage du numérique dans l'enseignement supérieur.
 
 ## L'accès à l'information des établissements d'enseignement supérieur via le Web
