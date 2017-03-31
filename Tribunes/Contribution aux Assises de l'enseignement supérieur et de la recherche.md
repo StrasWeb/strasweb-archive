@@ -5,8 +5,8 @@
 [StrasWeb](https://strasweb.fr/) est une association étudiante qui forme les étudiants aux techniques de création web et leur permet de s'impliquer sur des projets concrets pour des associations et des petites entreprises, contribuant ainsi à l'insertion professionnelle des étudiants dans les métiers du Web.
 Il nous semble donc légitime de réaliser une contribution sur les usages du Web et du numérique dans l'enseignement supérieur.
 Cependant, le sujet étant vaste, nous avons décidé de nous limiter à deux thèmes :
-*L'accès à l'information via le Web
-*Les outils pédagogiques numériques
+* L'accès à l'information via le Web
+* Les outils pédagogiques numériques
 Voici donc quelques propositions afin d'améliorer l'usage du numérique dans l'enseignement supérieur.
 
 ## L'accès à l'information des établissements d'enseignement supérieur via le Web
