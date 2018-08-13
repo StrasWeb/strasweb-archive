@@ -1,6 +1,6 @@
 # Initiation à WordPress
 
-## Présentation de WordPress
+## Présentation de WordPress
 
 Wordpress est un CMS dont la première version remonte à 2003. L'idée était, à la base, de proposer une plate-forme de blogging. Il a ensuite évolué et s'est doté de plus d'options et d'une souplesse accrue pour ensuite être considéré comme un CMS à part entière.
 
